@@ -9,10 +9,9 @@
 
 ### 🌙 𝐻𝑒𝓎 𝓉𝒽𝑒𝓇𝑒 𝒮𝓉𝓇𝒶𝓃𝑔𝑒𝓇, 🌙
 
-- 🔭 I’m currently working on: trying to fix my life.
-- 🌱 I’m currently learning: C#, Webdesign stuff, VFX and Editing.								
-- 👯 I’m looking to collaborate with: [React 😢](https://github.com/reactdev1337)
-- 💬 Ask me about: nothing really, Since I probably won't have the answer you are looking for...
+- 🔭 I’m currently working on: Firey Selfbot.
+- 🌱 I’m currently learning: I already know everything I want to know.								
+- 💬 Ask me about: C++, C, or Firey.
 - 📫 How to reach me: Why would you want to do that? But anyways it's down below 👀.
 - ⚡ Fun fact¹: [React](https://github.com/reactdev1337) is cool.
 - ✨ Fun fact²: I use Arch btw (I really don't).
@@ -31,20 +30,4 @@
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/nolan/64/html-5.png" alt="html5" width="50" height="50"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/nolan/64/javascript.png" alt="javascript" width="50" height="50"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/nolan/64/linux--v1.png" alt="linux" width="50" height="50"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/nolan/64/windows-10.png" alt="windows" width="50" height="50"/> </a>
-<a href="https://unity.com/" target="_blank"> <img src="https://img.icons8.com/nolan/64/unity.png" alt="unity" width="50" height="50"/> </a>
-<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank"> <img src="https://img.icons8.com/nolan/64/adobe-after-effects.png" alt="aftereffects" width="50" height="50"/> </a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank"> <img src="https://img.icons8.com/nolan/64/adobe-premiere-pro.png" alt="premierpro" width="50" height="50"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://img.icons8.com/nolan/64/adobe-photoshop.png" alt="photoshop" width="50" height="50"/> </a>
-<a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank"> <img src="https://img.icons8.com/nolan/64/adobe-illustrator.png" alt="illustrator" width="50" height="50"/> </a>
 </p>
-
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=A2uma0&show_icons=true&theme=jolly)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A2uma0&layout=compact&theme=jolly)
-
-
-
-![Profile views](https://gpvc.arturio.dev/A2uma0)
