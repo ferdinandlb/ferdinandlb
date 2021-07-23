@@ -1,6 +1,6 @@
 <h1 align="center">Stuff about me</h1>
 
-### 🌙 Infoo, 🌙
+### 🌙 Info 🌙
 
 - 🔭 I’m currently working on: Silence
 - 🌱 I’m currently learning: Socket.io
